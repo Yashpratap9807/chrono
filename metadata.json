@@ -1,0 +1,5 @@
+{
+  "name": "Chrono-Bird",
+  "description": "A dynamic text adventure game where you are a 'Chrono-Bird,' unstuck in time. Your goal is to flap through 10,000 portals of history to get back home, with each level presenting a new challenge in a different era.",
+  "requestFramePermissions": []
+}
